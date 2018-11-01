@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+November 1, 2018 and README.md
 
 ### Project Title
-Replace the Project Title
+ *Bikeshare Database for New York City, Chicago, and Washington.*
 
 ### Description
-Describe what your project is about and what it does
+The project explores the bikeshare data for the cities of New York, Chicago, and Washington.  It also provides the user with a interactive experience to explore demographics they are looking for based on the type of filters they apply. 
+
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* new_york_city.csv
+* chicago.csv
+* washington.csv
