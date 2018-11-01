@@ -1,5 +1,5 @@
 ### Date created
-November 1, 2018 and README.md
+November 1, 2018 
 
 ### Project Title
  *Bikeshare Database for New York City, Chicago, and Washington.*
