@@ -297,7 +297,7 @@ def user_stats(df):
         print('\nThe most common year of birth is', common_birth_year)
 
 
-def raw_data_request():
+def raw_data():
 
     request = input('Would you like to see five lines of raw data for the city of interest? Enter yes or no.\n')
 
@@ -343,7 +343,7 @@ while True:
 
     trip_duration_stats(df)
 
-    raw_data_request()
+    raw_data()
 
 
 
